@@ -56,5 +56,6 @@ Define como o SO decide **qual processo será executado** e por quanto tempo.
 
 ## Linha do tempo dos Sistemas Operacionais
 
+![Linha do tempo SO](https://github.com/user-attachments/assets/768dc5d2-7125-4953-bdab-c1a81234734d)
 
 
