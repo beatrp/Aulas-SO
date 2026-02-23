@@ -30,17 +30,7 @@ Cada geração representa uma mudança significativa tanto tecnológica quanto c
 
 ## Contexto Histórico
 
-Após a Segunda Guerra Mundial, surgiram os primeiros computadores eletrônicos.
-
-Essas máquinas utilizavam válvulas a vácuo.
-
-Eram enormes.
-
-Consumiam grande quantidade de energia.
-
-Geravam muito calor.
-
-Falhavam com frequência.
+Após a Segunda Guerra Mundial, surgiram os primeiros computadores eletrônicos, essas grandes máquinas utilizavam válvulas a vácuo, consumiam grande quantidade de energia, geravam muito calor e falhavam com frequência.
 
 ---
 
@@ -56,39 +46,25 @@ Falhavam com frequência.
 
 ## Funcionamento
 
-Não existia sistema operacional.
-
-Cada programa era carregado manualmente.
-
-O programador controlava diretamente o hardware.
-
-Se algo desse errado, era necessário reiniciar o processo inteiro.
-
-Não havia abstrações.
-
-Não havia gerenciamento automático.
-
-Não havia proteção de memória.
+Não existia sistema operacional, cada programa era carregado manualmente. O programador controlava diretamente o hardware, e se algo desse errado, era necessário reiniciar o processo inteiro. Não havia abstrações, não havia gerenciamento automático, e não havia proteção de memória.
 
 ---
 
 ## Modelo de Uso
 
-Um único usuário por vez.
+- Um único usuário por vez.
 
-Uso exclusivo da máquina.
+- Uso exclusivo da máquina.
 
-Tempo extremamente caro.
+- Tempo extremamente caro.
 
-Ambiente restrito a governos e grandes centros de pesquisa.
+- Ambiente restrito a governos e grandes centros de pesquisa.
 
 ---
 
 ## Conclusão da 1ª Geração
 
-Não havia sistema operacional.
-
-O controle era totalmente manual.
+Não havia sistema operacional, o controle era totalmente manual.
 
 Essa fase representa a pré-história dos sistemas operacionais.
 
@@ -114,21 +90,13 @@ Computadores tornaram-se:
 
 ## Mudança de Paradigma
 
-Surge a necessidade de automatizar a execução de programas.
-
-Operadores passam a intermediar o uso da máquina.
-
-Usuários entregam seus programas em cartões perfurados.
+Surge a necessidade de automatizar a execução de programas, logo operadores passam a intermediar o uso da máquina,e usuários entregam seus programas em cartões perfurados.
 
 ---
 
 ## Sistemas em Lote (Batch)
 
-Programas são agrupados em lotes.
-
-Executados sequencialmente.
-
-Sem interação do usuário durante a execução.
+Programas são agrupados em lotes, executados sequencialmente, sem interação do usuário durante a execução.
 
 ---
 
@@ -178,13 +146,7 @@ Mas representam o nascimento dos sistemas operacionais.
 
 ## Revolução Tecnológica
 
-Introdução dos circuitos integrados.
-
-Maior capacidade de processamento.
-
-Maior memória.
-
-Redução de custos.
+Introdução dos circuitos integrados, maior capacidade de processamento, maior memória e redução de custos.
 
 ---
 
@@ -198,11 +160,11 @@ Era necessário melhorar eficiência.
 
 ## Multiprogramação
 
-Vários programas na memória simultaneamente.
+- Vários programas na memória simultaneamente.
 
-Quando um aguardava E/S, outro utilizava a CPU.
+- Quando um aguardava E/S, outro utilizava a CPU.
 
-Isso aumentou drasticamente o desempenho.
+- Isso aumentou drasticamente o desempenho.
 
 ---
 
@@ -230,9 +192,7 @@ Cria ilusão de execução simultânea.
 
 ## Impacto
 
-Mudança completa no conceito de computação.
-
-De processamento isolado para ambiente compartilhado.
+Mudança completa no conceito de computação; de processamento isolado para ambiente compartilhado.
 
 ---
 
@@ -247,9 +207,7 @@ De processamento isolado para ambiente compartilhado.
 
 ## Conclusão da 3ª Geração
 
-Os sistemas operacionais tornam-se complexos.
-
-Passam a ser o núcleo central do funcionamento do computador.
+Os sistemas operacionais tornam-se complexos, assim passam a ser o núcleo central do funcionamento do computador.
 
 ---
 
