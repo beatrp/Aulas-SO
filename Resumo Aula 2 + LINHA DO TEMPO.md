@@ -152,9 +152,7 @@ Introdução dos circuitos integrados, maior capacidade de processamento, maior 
 
 ## Problema Identificado
 
-CPU ficava ociosa durante operações de entrada e saída.
-
-Era necessário melhorar eficiência.
+CPU ficava ociosa durante operações de entrada e saída, logo sendo necessário melhorar eficiência.
 
 ---
 
@@ -212,7 +210,10 @@ Os sistemas operacionais tornam-se complexos, assim passam a ser o núcleo centr
 ---
 
 # 💻 4ª Geração (1980–Presente)  
-## A Era dos Computadores Pessoais
+## A Era dos Computadores Pessoais, Computadores Móveis e Conectividade
+
+Surgimento de smartphones, tablets e dispositivos portáteis. Conectividade deixa de ser opcional e passa a ser essencial + aplicações dependem da nuvem.
+
 
 ---
 
@@ -277,18 +278,8 @@ Aumentam tamanho e complexidade.
 
 ---
 
-# 📱 5ª Geração (1990–Presente)  
-## Computadores Móveis e Conectividade
-
----
-
 ## Transformação Digital
 
-Surgimento de smartphones.
-
-Tablets.
-
-Dispositivos portáteis.
 
 ---
 
@@ -312,33 +303,15 @@ Sistemas precisam ser:
 
 ---
 
-## Integração com Rede
-
-Conectividade deixa de ser opcional.
-
-Passa a ser essencial.
-
-Aplicações dependem da nuvem.
-
----
-
 ## Segurança
 
-Aumento de ameaças.
+- Aumento de ameaças.
 
-Necessidade de sandboxing.
+- Necessidade de sandboxing.
 
-Permissões controladas.
+- Permissões controladas.
 
-Isolamento de aplicações.
-
----
-
-## Conclusão da 5ª Geração
-
-Sistema operacional torna-se plataforma móvel.
-
-Integra hardware, rede e serviços online.
+- Isolamento de aplicações.
 
 ---
 
