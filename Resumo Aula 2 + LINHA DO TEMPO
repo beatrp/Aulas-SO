@@ -395,25 +395,91 @@ Integra hardware, rede e serviços online.
 | 5ª | Dispositivos móveis | Mobilidade e conectividade |
 
 ---
+# 📜 Conclusão em Diagrama – Evolução das Gerações dos Sistemas Operacionais
+
+A evolução dos sistemas operacionais pode ser compreendida como um processo contínuo de adaptação às mudanças do hardware e às necessidades dos usuários.
+
+Abaixo, o desenvolvimento histórico organizado em formato de diagrama-resumo:
+
+---
+
+# 🧭 Evolução Histórica
+
+1ª GERAÇÃO (1945–1955)
+        ↓
+[ NÃO EXISTE SISTEMA OPERACIONAL ]
+        ↓
+• Controle manual
+• Programação em linguagem de máquina
+• Um usuário por vez
+• Sem abstrações
+        ↓
+➡ Computação totalmente dependente do programador
+
+────────────────────────────────────────
+
+2ª GERAÇÃO (1955–1965)
+        ↓
+[ SURGIMENTO DOS SISTEMAS BATCH ]
+        ↓
+Usuário → Operador → Sistema em Lote → Hardware
+        ↓
+• Execução automática de lotes
+• Sem interação durante a execução
+• Melhor aproveitamento da CPU
+        ↓
+➡ Início da automação do controle do computador
+
+────────────────────────────────────────
+
+3ª GERAÇÃO (1965–1980)
+        ↓
+[ MULTIPROGRAMAÇÃO E TIME-SHARING ]
+        ↓
+Usuários múltiplos
+        ↓
+Sistema Operacional
+        ↓
+CPU ↔ Memória ↔ Dispositivos
+        ↓
+• Vários programas na memória
+• Alternância de processos
+• Compartilhamento de recursos
+• Proteção de memória
+        ↓
+➡ O sistema operacional torna-se o núcleo central do sistema
+
+────────────────────────────────────────
+
+4ª GERAÇÃO (1980–Presente)
+        ↓
+[ COMPUTADORES PESSOAIS ]
+        ↓
+Usuário
+        ↓
+Interface Gráfica
+        ↓
+Sistema Operacional
+        ↓
+Hardware
+        ↓
+• Foco em usabilidade
+• Ambientes gráficos
+• Uso individual
+• Expansão de aplicações
+        ↓
+➡ O sistema operacional passa a fazer parte do cotidiano das pessoas
+
+---
 
 # 🎯 Conclusão Geral
 
-A evolução dos sistemas operacionais reflete a evolução da computação.
+Não existia SO
+        ↓
+Automação simples (Batch)
+        ↓
+Gerenciamento avançado e compartilhamento
+        ↓
+Usabilidade e popularização
 
-Passaram de inexistentes.
-
-Para automatizadores simples.
-
-Depois para gerenciadores complexos.
-
-Posteriormente para ambientes interativos.
-
-E finalmente para plataformas móveis conectadas globalmente.
-
-A cada geração:
-
-- A complexidade aumentou.
-- As responsabilidades cresceram.
-- A importância do sistema operacional se consolidou.
-
-Hoje, o sistema operacional é o elemento central que torna possível toda a experiência computacional moderna.
+A evolução das gerações demonstra que os sistemas operacionais passaram de inexistentes para elementos essenciais, responsáveis por organizar recursos, aumentar eficiência e tornar a computação acessível e funcional para diferentes tipos de usuários.
