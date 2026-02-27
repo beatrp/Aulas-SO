@@ -1,9 +1,16 @@
-# 📜 História dos Sistemas Operacionais  
-## (Páginas 5 a 13 – Sistemas Operacionais Modernos, 4ª edição)
+
+# RESUMO AULA 2:
+
+# História dos Sistemas Operacionais  
+
+## (Páginas 5 a 13) 
+## – 📖 Sistemas Operacionais Modernos, 4ª edição
+
 
 ---
 
-# 📖 Introdução Geral
+
+#  Introdução Geral
 
 A história dos sistemas operacionais está diretamente ligada à evolução do hardware.
 
@@ -17,16 +24,21 @@ Cada avanço tecnológico no hardware exigiu novas formas de gerenciamento.
 - Aumentar eficiência
 - Garantir segurança
 
+
 O livro organiza essa evolução em cinco gerações principais.
 
 Cada geração representa uma mudança significativa tanto tecnológica quanto conceitual.
 
+
 ---
+
 
 # 🖥 1ª Geração (1945–1955)  
 ## A Era das Válvulas
 
+
 ---
+
 
 ## Contexto Histórico
 
@@ -34,7 +46,9 @@ Após a Segunda Guerra Mundial, surgiram os primeiros computadores eletrônicos,
 
 ---
 
+
 ## Características Técnicas
+
 
 - Uso de válvulas eletrônicas
 - Programação em linguagem de máquina
@@ -42,13 +56,17 @@ Após a Segunda Guerra Mundial, surgiram os primeiros computadores eletrônicos,
 - Ausência de sistemas de armazenamento modernos
 - Entrada e saída por cartões perfurados
 
+
 ---
+
 
 ## Funcionamento
 
 Não existia sistema operacional, cada programa era carregado manualmente. O programador controlava diretamente o hardware, e se algo desse errado, era necessário reiniciar o processo inteiro. Não havia abstrações, não havia gerenciamento automático, e não havia proteção de memória.
 
+
 ---
+
 
 ## Modelo de Uso
 
@@ -60,7 +78,9 @@ Não existia sistema operacional, cada programa era carregado manualmente. O pro
 
 - Ambiente restrito a governos e grandes centros de pesquisa.
 
+
 ---
+
 
 ## Conclusão da 1ª Geração
 
@@ -68,12 +88,16 @@ Não havia sistema operacional, o controle era totalmente manual.
 
 Essa fase representa a pré-história dos sistemas operacionais.
 
+
 ---
+
 
 # 🔄 2ª Geração (1955–1965)  
 ## A Era dos Transistores e Sistemas Batch
 
+
 ---
+
 
 ## Avanço Tecnológico
 
@@ -86,19 +110,25 @@ Computadores tornaram-se:
 - Mais confiáveis
 - Menos propensos a falhas
 
+
 ---
+
 
 ## Mudança de Paradigma
 
 Surge a necessidade de automatizar a execução de programas, logo operadores passam a intermediar o uso da máquina,e usuários entregam seus programas em cartões perfurados.
 
+
 ---
+
 
 ## Sistemas em Lote (Batch)
 
 Programas são agrupados em lotes, executados sequencialmente, sem interação do usuário durante a execução.
 
+
 ---
+
 
 ## Funcionamento do Batch
 
@@ -107,7 +137,9 @@ Programas são agrupados em lotes, executados sequencialmente, sem interação d
 3. Carrega o lote na máquina.
 4. Sistema executa automaticamente.
 
+
 ---
+
 
 ## Vantagens
 
@@ -123,7 +155,9 @@ Programas são agrupados em lotes, executados sequencialmente, sem interação d
 - Erros só eram percebidos após a execução completa.
 - Processos ainda simples.
 
+
 ---
+
 
 ## Surgimento dos Primeiros Sistemas Operacionais
 
@@ -154,7 +188,9 @@ Introdução dos circuitos integrados, maior capacidade de processamento, maior 
 
 CPU ficava ociosa durante operações de entrada e saída, logo sendo necessário melhorar eficiência.
 
+
 ---
+
 
 ## Multiprogramação
 
@@ -163,6 +199,7 @@ CPU ficava ociosa durante operações de entrada e saída, logo sendo necessári
 - Quando um aguardava E/S, outro utilizava a CPU.
 
 - Isso aumentou drasticamente o desempenho.
+
 
 ---
 
@@ -201,11 +238,13 @@ Mudança completa no conceito de computação; de processamento isolado para amb
 - Controle de dispositivos.
 - Proteção do sistema.
 
+
 ---
 
 ## Conclusão da 3ª Geração
 
 Os sistemas operacionais tornam-se complexos, assim passam a ser o núcleo central do funcionamento do computador.
+
 
 ---
 
@@ -217,6 +256,7 @@ Surgimento de smartphones, tablets e dispositivos portáteis. Conectividade deix
 
 ---
 
+
 ## Popularização
 
 Computadores deixam de ser exclusivos de grandes instituições.
@@ -224,6 +264,7 @@ Computadores deixam de ser exclusivos de grandes instituições.
 Passam a estar em casas e escritórios.
 
 Uso individual se torna comum.
+
 
 ---
 
@@ -233,6 +274,7 @@ Uso individual se torna comum.
 - Facilidade de uso.
 - Ambientes gráficos.
 - Interatividade constante.
+
 
 ---
 
@@ -266,7 +308,9 @@ Interação torna-se visual.
 
 Sistema operacional precisa suportar diversidade.
 
+
 ---
+
 
 ## Evolução Contínua
 
@@ -278,7 +322,9 @@ Aumentam tamanho e complexidade.
 
 ---
 
+
 ## Transformação Digital
+
 
 
 ---
@@ -347,6 +393,7 @@ Abaixo, o desenvolvimento histórico organizado em formato de diagrama-resumo:
         ↓
 ➡ Computação totalmente dependente do programador
 
+
 ────────────────────────────────────────
 
 2ª GERAÇÃO (1955–1965)
@@ -360,6 +407,7 @@ Usuário → Operador → Sistema em Lote → Hardware
 • Melhor aproveitamento da CPU
         ↓
 ➡ Início da automação do controle do computador
+
 
 ────────────────────────────────────────
 
@@ -379,6 +427,7 @@ CPU ↔ Memória ↔ Dispositivos
 • Proteção de memória
         ↓
 ➡ O sistema operacional torna-se o núcleo central do sistema
+
 
 ────────────────────────────────────────
 
@@ -401,7 +450,9 @@ Hardware
         ↓
 ➡ O sistema operacional passa a fazer parte do cotidiano das pessoas
 
+
 ---
+
 
 # 🎯 Conclusão Geral
 
@@ -413,4 +464,17 @@ Gerenciamento avançado e compartilhamento
         ↓
 Usabilidade e popularização
 
+
 A evolução das gerações demonstra que os sistemas operacionais passaram de inexistentes para elementos essenciais, responsáveis por organizar recursos, aumentar eficiência e tornar a computação acessível e funcional para diferentes tipos de usuários.
+
+
+---
+
+
+# Linha do tempo 
+
+
+
+<img width="1090" height="2097" alt="image" src="https://github.com/user-attachments/assets/86a78976-83f1-4549-bc2d-a9d0d8294c4c" />
+
+
