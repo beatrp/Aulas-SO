@@ -1,10 +1,10 @@
 
 # RESUMO AULA 2:
 
-# História dos Sistemas Operacionais  
+## História dos Sistemas Operacionais  
 
-## (Páginas 5 a 13) 
-## – 📖 Sistemas Operacionais Modernos, 4ª edição
+(Páginas 5 a 13) 
+– 📖 Sistemas Operacionais Modernos, 4ª edição
 
 
 ---
