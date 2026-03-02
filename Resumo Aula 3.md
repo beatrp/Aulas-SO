@@ -1,4 +1,4 @@
-# RESUMO AULA 3:
+# RESUMO AULA 3: 
 
 ## Conceitos, Funções e Tipos de Sistemas Operacionais
 
