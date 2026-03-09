@@ -1,4 +1,9 @@
-# Sistemas Operacionais Baseados em Outros Sistemas
+
+# RESUMO AULA 2:
+
+
+## Sistemas Operacionais Baseados em Outros Sistemas
+
 
 ## Introdução
 
@@ -6,7 +11,9 @@ Diversos sistemas operacionais são desenvolvidos a partir da base de outros sis
 
 Nesta pesquisa foram selecionados cinco sistemas operacionais que utilizam como base outros sistemas já existentes. A tabela a seguir apresenta uma comparação entre eles, destacando o sistema base, o tipo de relação entre eles e suas principais diferenças.
 
+
 ## Tabela Comparativa
+
 
 | Sistema Operacional | Sistema Base | Tipo de Base | Desenvolvedor | Ano de Lançamento | Diferenças Principais |
 |---------------------|--------------|--------------|---------------|-------------------|-----------------------|
@@ -15,6 +22,7 @@ Nesta pesquisa foram selecionados cinco sistemas operacionais que utilizam como 
 | macOS | FreeBSD / Darwin | Kernel e arquitetura Unix | Apple | 2001 | O macOS utiliza partes do FreeBSD e do projeto Darwin como base. A Apple adaptou o sistema para funcionar especificamente em seus computadores, com forte integração de hardware e software e interface gráfica proprietária. |
 | Horizon OS | FreeBSD | Kernel e arquitetura | Nintendo | 2017 | O Horizon OS é o sistema operacional do console Nintendo Switch. Ele utiliza partes da arquitetura do FreeBSD, porém foi profundamente modificado para otimização em jogos, gerenciamento de hardware do console e segurança do sistema. |
 | ChromeOS | Linux | Kernel | Google | 2011 | O ChromeOS é baseado no kernel Linux e foi desenvolvido para os dispositivos Chromebook. O sistema é focado em aplicações web, armazenamento em nuvem e forte integração com os serviços do Google. |
+
 
 ## Conclusão
 
