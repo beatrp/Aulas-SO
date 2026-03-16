@@ -254,9 +254,84 @@ Selecione: Choose a disk file
 
 Localize o arquivo: Windows7.iso
 
+Selecione e clique em **Open**.
+
+Clique em: OK
+
+---
+
+# 10. Iniciando a Máquina Virtual
+
+Com a ISO configurada, é possível iniciar a máquina virtual.
+
+Selecione a máquina virtual e clique em: Start
+
+A máquina virtual iniciará pela ISO do Windows 7.
+
+A tela de instalação do Windows aparecerá.
+
+---
+
+# 11. Instalando o Windows 7
+
+Siga os passos da instalação:
+
+1. Escolher idioma e teclado
+2. Clique em **Install Now**
+3. Aceite os termos de licença
+4. Selecione **Custom Installation**
+5. Escolha o disco virtual criado
+6. Clique em **Next**
+
+O Windows começará a ser instalado.
+
+Esse processo pode levar alguns minutos.
+
+---
+
+# 12. Primeira Inicialização
+
+Após a instalação:
+
+- O sistema reiniciará automaticamente
+- O Windows 7 iniciará dentro da máquina virtual
+- Configure nome de usuário, senha e preferências
+
+---
+
+# 13. Instalando Guest Additions
+
+Para melhorar o desempenho da máquina virtual:
+
+1. Com a máquina virtual ligada, vá ao menu superior
+2. Clique em: Devices Insert Guest Additions CD Image
+
+Dentro do Windows virtual, abra o CD e execute: VBoxWindowsAdditions.exe
 
 
+Isso permitirá:
 
+- Melhor resolução de tela
+- Integração do mouse
+- Melhor desempenho gráfico
+- Área de transferência compartilhada
+
+---
+
+# 14. Conclusão
+
+Após seguir este manual, você terá:
+
+- Oracle VirtualBox instalado
+- Uma máquina virtual criada
+- Windows 7 rodando dentro do seu computador
+
+A virtualização é útil para:
+
+- Testar sistemas operacionais
+- Estudar informática
+- Rodar softwares antigos
+- Criar ambientes seguros de teste
 
 
 
