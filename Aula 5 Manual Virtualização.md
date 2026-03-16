@@ -318,6 +318,16 @@ Isso permitirá:
 
 ---
 
+(Visualização)
+
+
+<img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/6b796071-725e-43a1-8d2b-6f088c264abb" />
+
+<img width="1920" height="1080" alt="2" src="https://github.com/user-attachments/assets/ae3ef856-4137-43c2-96d7-bf151223dd0a" />
+
+
+---
+
 # 14. Conclusão
 
 Após seguir este manual, você terá:
