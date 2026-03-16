@@ -179,6 +179,85 @@ Recomendação: 2048MB (2GB) ou mais
 Clique em: Next
 
 
+---
+
+# 8. Criar Disco Virtual
+
+Selecione a opção: Create a Virtual Hard Disk now
+
+Clique em: Create now
+
+
+---
+
+## Passo 1 — Tipo de disco
+
+Selecione: VDI (VirtualBox Disk Image)
+
+
+Clique em: Next
+
+---
+
+## Passo 2 — Alocação do disco
+
+Escolha: Dynamically Allocated
+
+Isso faz o disco crescer conforme o uso.
+
+Clique em: Next
+
+---
+
+## Passo 3 — Tamanho do disco
+
+Defina o tamanho do disco virtual.
+
+Recomendado para Windows 7: 20GB
+
+
+Clique em: Create
+
+A máquina virtual será criada.
+
+---
+
+# 9. Configurando a ISO do Windows 7
+
+Agora será necessário conectar o arquivo ISO para iniciar a instalação.
+
+---
+
+## Passo 1 — Abrir configurações
+
+Selecione a máquina virtual criada.
+
+Clique em: Settings
+
+---
+
+## Passo 2 — Acessar armazenamento
+
+No menu lateral clique em: Storage
+
+Você verá um controlador de disco com um **disco vazio**.
+
+Clique nele.
+
+---
+
+## Passo 3 — Selecionar arquivo ISO
+
+Clique no ícone de **CD** ao lado.
+
+Selecione: Choose a disk file
+
+Localize o arquivo: Windows7.iso
+
+
+
+
+
 
 
 
