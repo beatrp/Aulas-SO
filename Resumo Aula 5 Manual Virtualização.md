@@ -345,6 +345,13 @@ A virtualização é útil para:
 
 ---
 
+# EM RESUMO:
+
+A virtualização é uma tecnologia que permite criar versões virtuais de recursos físicos, como servidores, sistemas operacionais, armazenamento e redes. No contexto de sistemas operacionais, ela possibilita a execução de um sistema operacional dentro de outro, ou seja, a criação de uma "máquina virtual" (VM) que simula um ambiente computacional completo. Uma das principais vantagens da virtualização é a isolação: diferentes sistemas operacionais podem rodar simultaneamente no mesmo hardware, sem interferir entre si, o que aumenta a flexibilidade e segurança. Além disso, a virtualização facilita o gerenciamento de recursos, permitindo que o hardware seja utilizado de maneira mais eficiente, com a capacidade de alocar recursos como memória e CPU conforme a necessidade. Outro benefício importante é a criação de ambientes de teste sem riscos para o sistema principal, ideal para testar novas configurações ou sistemas operacionais. Ela também é essencial para consolidar servidores em data centers, aumentando a eficiência e reduzindo custos com hardware.
+
+
+---
+
 # Apresentação: GRUPO 2 (BEATRIZ MARCELLE MAVELYN E MAURO)
 - OS ESCOLHIDO = PuppyLinux
 - LINK SLIDES = https://www.canva.com/design/DAHEw3yyLc0/mjZLLATo4BORzIaYj4tBiQ
