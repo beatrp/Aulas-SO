@@ -1,5 +1,5 @@
 
-# RESUMO AULA 2:
+# RESUMO AULA 4:
 
 
 ## Sistemas Operacionais Baseados em Outros Sistemas
@@ -26,6 +26,6 @@ Nesta pesquisa foram selecionados cinco sistemas operacionais que utilizam como 
 
 ## Conclusão
 
-A análise demonstra que muitos sistemas operacionais modernos são construídos a partir de tecnologias já existentes. Utilizar a base de outro sistema permite que desenvolvedores aproveitem recursos consolidados, como kernels estáveis e arquiteturas bem testadas.
+A análise dos sistemas operacionais baseados em outros sistemas revela a importância do reaproveitamento de tecnologias consolidadas no desenvolvimento de software. Ao utilizar bases como o kernel de outros sistemas operacionais ou sua arquitetura subjacente, os desenvolvedores conseguem acelerar o processo de criação, garantir estabilidade e segurança, além de reduzir o risco de falhas ao construir sobre plataformas já testadas e confiáveis. Esse método também permite que os sistemas operacionais sejam adaptados a diferentes contextos e dispositivos, oferecendo soluções especializadas e otimizadas, como é o caso de sistemas voltados para usuários domésticos, consoles de videogame ou dispositivos móveis.
 
-Além disso, essa prática possibilita a criação de sistemas especializados para diferentes necessidades, como computadores pessoais, dispositivos móveis ou consoles de videogame. Dessa forma, o reaproveitamento de bases tecnológicas contribui significativamente para a evolução e diversidade dos sistemas operacionais disponíveis atualmente.
+O reaproveitamento de sistemas base, como o Debian no Ubuntu, o FreeBSD no macOS e o Linux no ChromeOS, reflete não apenas uma estratégia técnica, mas também um movimento de inovação contínua, em que as vantagens das tecnologias anteriores são mantidas, mas com melhorias focadas em atender a novas demandas. Isso também facilita a interoperabilidade e a compatibilidade entre sistemas, além de permitir que as empresas ofereçam uma experiência mais personalizada e integrada aos seus usuários, como demonstrado pelas modificações feitas no Horizon OS da Nintendo e na interface gráfica do Linux Mint. Assim, a reutilização inteligente de sistemas operacionais base não só contribui para a evolução da computação, mas também para a diversificação e especialização dos sistemas operacionais modernos, criando soluções que atendem a uma ampla gama de necessidades dos usuários.
