@@ -54,7 +54,14 @@ Define como o SO decide **qual processo será executado** e por quanto tempo.
 
 ---
 
+## Conclusão
+
+Nesta primeira aula, abordamos os conceitos fundamentais dos Sistemas Operacionais, destacando sua importância no gerenciamento do hardware e software de um computador, além de atuar como interface entre o usuário e a máquina. Foi discutida a estrutura interna dos sistemas operacionais, incluindo as camadas de organização, o papel vital do kernel e as diferenças entre os modos de operação. O escalonamento de processos e o gerenciamento de memória foram explorados, evidenciando a importância desses componentes para o desempenho eficiente e seguro do sistema. Além disso, abordamos tópicos relevantes como o gerenciamento de dispositivos, sistemas de arquivos, segurança e virtualização, que são essenciais para o funcionamento moderno dos sistemas operacionais. Compreender esses conceitos é fundamental para o desenvolvimento e manutenção de sistemas computacionais robustos e seguros.
+
+---
+
 ## Linha do tempo dos Sistemas Operacionais (ATUALIZADA) 
 
+<img width="1393" height="625" alt="LINHA DO TEMPO ATUALIZADA" src="https://github.com/user-attachments/assets/b43dc0ac-dee1-4c9d-85cf-c048a6d3394d" />
 
 
