@@ -343,6 +343,11 @@ A virtualização é útil para:
 - Rodar softwares antigos
 - Criar ambientes seguros de teste
 
+---
+
+# Apresentação: GRUPO 2 (BEATRIZ MARCELLE MAVELYN E MAURO)
+- OS ESCOLHIDO = PuppyLinux
+- LINK SLIDES = https://www.canva.com/design/DAHEw3yyLc0/mjZLLATo4BORzIaYj4tBiQ
 
 
 
