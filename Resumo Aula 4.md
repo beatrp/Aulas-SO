@@ -1,7 +1,4 @@
 
-# RESUMO AULA 4:
-
-
 ## Sistemas Operacionais Baseados em Outros Sistemas
 
 
