@@ -1,14 +1,9 @@
 
-# RESUMO AULA 2:
+#  AULA 2 – História dos Sistemas Operacionais  
 
-## História dos Sistemas Operacionais  
-
-(Páginas 5 a 13) 
-– 📖 Sistemas Operacionais Modernos, 4ª edição
-
+ # (Páginas 5 a 13) – 📖 Sistemas Operacionais Modernos, 4ª edição
 
 ---
-
 
 #  Introdução Geral
 
@@ -471,11 +466,6 @@ A evolução das gerações demonstra que os sistemas operacionais passaram de i
 ---
 
 
-# Linha do tempo 
-
-
-<img width="1090" height="2097" alt="image" src="https://github.com/user-attachments/assets/86a78976-83f1-4549-bc2d-a9d0d8294c4c" />
-
 ## Resumo
 
 A história dos sistemas operacionais está intimamente ligada à evolução do hardware e às necessidades crescentes dos usuários e das tecnologias. As cinco gerações apresentadas refletem avanços significativos que transformaram a computação, desde a simples automação até o surgimento de sistemas complexos e interativos. Na **1ª geração (1945-1955)**, os computadores eram controlados manualmente, sem sistemas operacionais, e com recursos limitados, como válvulas e memória escassa. O uso era restrito a governos e grandes centros de pesquisa, sendo uma fase essencialmente de programação direta em linguagem de máquina.
@@ -485,3 +475,11 @@ A **2ª geração (1955-1965)** marcou a introdução dos transistores, tornando
 Na **3ª geração (1965-1980)**, a introdução dos circuitos integrados e a chegada da multiprogramação revolucionaram a computação, permitindo que múltiplos programas fossem executados simultaneamente na memória. O conceito de **time-sharing** surgiu, permitindo que vários usuários utilizassem a CPU ao mesmo tempo, com cada um recebendo uma fatia de tempo para executar seus processos. O gerenciamento de memória e a proteção entre processos também foram aprimorados, tornando os sistemas operacionais mais complexos e essenciais para o funcionamento do computador.
 
 A **4ª geração (1980–Presente)** trouxe os computadores pessoais, e mais recentemente, os dispositivos móveis. A popularização da informática transformou os sistemas operacionais, que passaram a se preocupar não apenas com a eficiência, mas também com a usabilidade, com a criação de interfaces gráficas baseadas no modelo WIMP (Windows, Icons, Menus, Pointer). A conectividade e a expansão das aplicações aumentaram a complexidade, e o foco agora é em tornar os sistemas mais acessíveis e interativos para os usuários, além de lidar com novos desafios, como a segurança e o consumo de recursos em dispositivos móveis. A evolução dos sistemas operacionais é um reflexo direto das necessidades de um mundo cada vez mais conectado e dependente da computação.
+
+---
+
+# Linha do tempo 
+
+
+<img width="1090" height="2097" alt="image" src="https://github.com/user-attachments/assets/86a78976-83f1-4549-bc2d-a9d0d8294c4c" />
+
