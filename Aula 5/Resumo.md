@@ -1,4 +1,4 @@
-# Manual: Instalação do Oracle VirtualBox e Configuração de Máquina Virtual com Windows 7
+# Manual de Instalação do Oracle VirtualBox e Configuração de Máquina Virtual com Windows 7 (SO escolhido)
 
 ## 1. Introdução
 
