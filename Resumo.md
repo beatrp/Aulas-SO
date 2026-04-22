@@ -1,7 +1,3 @@
-# RESUMO AULA 3: 
-
-## Conceitos, Funções e Tipos de Sistemas Operacionais
-
 # Aula 03 – Conceitos, Funções e Tipos de Sistemas Operacionais
 
 
