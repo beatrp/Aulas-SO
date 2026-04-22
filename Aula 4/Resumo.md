@@ -1,5 +1,5 @@
 
-## Sistemas Operacionais Baseados em Outros Sistemas
+## Pesquisa: Sistemas Operacionais Baseados/Derivados de Outros Sistemas
 
 
 ## Introdução
